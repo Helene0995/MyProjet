@@ -1,0 +1,12 @@
+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
+
+
+
+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
+
+git branch -M main
+
+git config user.name "Helene0995"
+git config user.email "helenemogoumken@gmail.com"
+git remote add origin https://github.com/Helene0995/MyProjet.git
+ git push -u origin main
